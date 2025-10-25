@@ -36,13 +36,14 @@ Faculty Marks Manager is a powerful, cross-platform application designed to help
 
 ### Latest Release - v1.0.0
 
-| Platform | Download |
-|----------|----------|
+| Platform |
+|----------|
 | 🤖 **Android** 
 | 🪟 **Windows**
 | 🪟 **Windows Installer** 
 
 > **Note:** Linux and macOS builds require building from source on respective platforms.
+> check links in the releseas menu
 
 ---
 
