@@ -17,8 +17,7 @@
 
 ## 📖 About
 
-Faculty Marks Manager is a powerful, cross-platform application designed to help teachers and faculty members efficiently manage student marks, assessments, and performance tracking. Built with Flutter, it offers a seamless experience across mobile and desktop platforms with offline-first architecture.
-
+Faculty Marks Manager is a powerful, cross-platform application designed to help teachers and faculty members efficiently manage student marks, assessments, and performance tracking. Built with Flutter, it offers a seamless experience across mobile and desktop platforms with offline-first architecture. "IF .EXE FILE WON'T RUN ON YOUR PC , DOWNLOAD AND EXTRACT THE ZIP AND LAUNCH THE "faculty_marks_app.EXE FILE TO RUN THAT!
 ### ✨ Key Features
 
 - 📚 **Subject Management** - Organize students by subjects
