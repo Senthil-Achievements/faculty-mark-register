@@ -187,8 +187,9 @@ All rights reserved. This project is not open source and is the proprietary work
 
 **Senthil**
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/Senthil-Achievements)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/p-senthil-154933276)
+- Portfolio: [Your Portfolio](https://www.artfolio.tech/senthilportfolio)
 
 ---
 

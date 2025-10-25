@@ -77,10 +77,10 @@ Faculty Marks Manager is a powerful, cross-platform application designed to help
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/faculty_marks_app_new.git
+git clone https://github.com/Senthil-Achievements/faculty-mark-register.git
 
 # Navigate to project directory
-cd faculty_marks_app_new
+cd faculty-mark-register
 
 # Install dependencies
 flutter pub get
@@ -187,8 +187,9 @@ All rights reserved. This project is not open source and is the proprietary work
 
 **Senthil**
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
+- GitHub: [@Senthil-Achievements](https://github.com/Senthil-Achievements)
+- LinkedIn: [P Senthil](https://www.linkedin.com/in/p-senthil-154933276)
+- Portfolio: [Artfolio](https://www.artfolio.tech/senthilportfolio)
 
 ---
 
