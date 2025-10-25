@@ -32,23 +32,15 @@ Faculty Marks Manager is a powerful, cross-platform application designed to help
 
 ---
 
-## 🖼️ Screenshots
-
-| Home Screen | Marks Entry | Student Details |
-|------------|------------|-----------------|
-| *Add your screenshots here* | *Add your screenshots here* | *Add your screenshots here* |
-
----
-
 ## 📥 Download
 
 ### Latest Release - v1.0.0
 
 | Platform | Download |
 |----------|----------|
-| 🤖 **Android** | [app-release.apk](../../releases/download/v1.0.0/app-release.apk) |
-| 🪟 **Windows** | [FacultyMarksManager-Windows.zip](../../releases/download/v1.0.0/FacultyMarksManager-Windows.zip) |
-| 🪟 **Windows Installer** | [FacultyMarksManager_Setup.exe](../../releases/download/v1.0.0/FacultyMarksManager_Setup.exe) |
+| 🤖 **Android** 
+| 🪟 **Windows**
+| 🪟 **Windows Installer** 
 
 > **Note:** Linux and macOS builds require building from source on respective platforms.
 
